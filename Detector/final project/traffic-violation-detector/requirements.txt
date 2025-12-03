@@ -1,0 +1,14 @@
+python-dotenv==1.0.0
+firebase-admin==6.4.0
+redis==5.0.1
+
+# Optional CV/ML (not required for scaffold)
+# opencv-python
+# ultralytics
+opencv-python
+ultralytics
+sqlalchemy
+easyocr
+pytesseract
+# paddleocr requires paddlepaddle runtime which should be installed according to your environment
+# pip install paddleocr
